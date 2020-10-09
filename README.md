@@ -2,7 +2,7 @@
 
 I'm a CSE student at CIT Kokrajhar.
 
-- 🔭 I’m currently working on Data Analysis.
+- 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning Algorithms.
 - 👯 I’m looking to collaborate on interesting projects.
 - 🤔 I’m looking for help with Neural Networks.

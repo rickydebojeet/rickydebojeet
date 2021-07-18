@@ -13,6 +13,7 @@ I'm a CSE student at CIT Kokrajhar.
 <p align="left">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickydebojeet&theme=tokyonight&layout=compact" />
 </p>
+<br>
 <p align="left">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rickydebojeet&count_private=true&show_icons=true&theme=tokyonight"/>
 </p>

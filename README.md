@@ -8,3 +8,10 @@ I'm a CSE student at CIT Kokrajhar.
 - 💬 Ask me about nothing.
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: I am sleeping.
+
+<br>
+<p align="left">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickydebojeet&theme=tokyonight&layout=compact" />
+
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=rickydebojeet&count_private=true&show_icons=true&theme=tokyonight"/>
+</p>

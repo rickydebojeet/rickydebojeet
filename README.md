@@ -12,8 +12,6 @@ I'm a CSE student at CIT Kokrajhar.
 <br>
 <p align="left" style="line-height:10%">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickydebojeet&theme=tokyonight&layout=compact" />
-</p>
-<br>
-<p align="left" style="line-height:10%">
+ </br>
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rickydebojeet&count_private=true&show_icons=true&theme=tokyonight"/>
 </p>

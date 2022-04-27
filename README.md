@@ -1,10 +1,11 @@
 ### Hello world, I'm Debojeet!! 👋
 
-I'm a CSE student at CIT Kokrajhar.
+Upcoming CSE graduate offering a strong foundation in Computer Networks and interest in technology.
+Seeking a research environment to pursue a highly rewarding career where I can acquire specialized skills and knowledge for gaining more expertise in my domain.
 
-- 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning how to code.
-- 👯 I’m looking to collaborate on interesting projects.
-- 💬 Ask me about nothing.
+- 🔭 I’m currently working on Augmented Reality that can bring some change in our current education system.
+- 🌱 I’m currently learning IoT, iOS development and yes Japanese.
+- 👯 I’m looking to collaborate on interesting projects with some challenges.
+- 💬 Ask me about how to get started with coding.
 - 😄 Pronouns: He/him.
-- ⚡ Fun fact: I am sleeping.
+- ⚡  One who doesnot throuw the dice can never expect to score a six.
